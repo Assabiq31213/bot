@@ -1,0 +1,13 @@
+{
+  "name": "convertsw-hd-bot",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "axios": "latest",
+    "express": "latest",
+    "multer": "latest",
+    "pino": "latest",
+    "sharp": "latest"
+  }
+}
